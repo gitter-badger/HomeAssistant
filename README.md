@@ -1,5 +1,7 @@
 # Home Assistant Configuration 
 
+[![Join the chat at https://gitter.im/MyHomeAssistant/Lobby](https://badges.gitter.im/MyHomeAssistant/Lobby.svg)](https://gitter.im/MyHomeAssistant/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 | **Master Build** | **Develop Build** |
 | --- | --- |
 | [![Master Build Status](https://travis-ci.org/mrreyes512/HomeAssistant.svg?branch=master)](https://travis-ci.org/mrreyes512/HomeAssistant) | [![Master Build Status](https://travis-ci.org/mrreyes512/HomeAssistant.svg?branch=develop)](https://travis-ci.org/mrreyes512/HomeAssistant) |
